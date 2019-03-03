@@ -1,0 +1,5 @@
+export const FETCH_USER = 'FETCH_USER';
+export const NEW_USER = 'NEW_USER';
+export const UPDATE_USER_DIALOG = 'UPDATE_USER_DIALOG';
+export const ADD_OR_UPDATE_USER_DATA = 'ADD_OR_UPDATE_USER_DATA';
+export const RESET_USER_DATA = 'RESET_USER_DATA';
